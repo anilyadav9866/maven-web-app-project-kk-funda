@@ -11,15 +11,12 @@
 <body>
 <h1 align="center">Welcome to DevOps by Anil</h1>
 <!-- <h1 align="center"> KK FUNDA</h1> -->
-<marquee class="green-text">Welcome to the DevOps blogs by Anil</marquee>
-
 <style>
         .green-text {
             color: green;
         }
     </style>
-<marquee class="green-text">Welcome to the DevOps blogs by Anil</marquee>
->
+<h2><marquee class="green-text">Welcome to the DevOps blogs by Anil</marquee></h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
