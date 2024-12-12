@@ -11,6 +11,11 @@
 <body>
 <h1 align="center">Welcome to DevOps by Anil</h1>
 <!-- <h1 align="center"> KK FUNDA</h1> -->
+<style>
+        .green-text {
+            color: green;
+        }
+    </style>
 <h1><marquee class="green-text">Welcome to the DevOps blogs by Anil</marquee></h1>
 <hr>
 <br>
