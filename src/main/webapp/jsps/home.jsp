@@ -13,7 +13,7 @@
 <!-- <h1 align="center"> KK FUNDA</h1> -->
 <style>
         .green-text {
-            color: green;
+            color: red;
         }
     </style>
 <h2><marquee class="green-text">Welcome to the DevOps blogs by Anil</marquee></h2>
