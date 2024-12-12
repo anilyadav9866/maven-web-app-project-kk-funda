@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://44.202.52.162:8081/kkfunda/repository/kia-snapshot/</url>
+	      <url>http://54.89.145.52:8081/kkfunda/repository/kia-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://44.202.52.162:8081/kkfunda/repository/kia-snapshot/</url>
+	      <url>http://54.89.145.52:8081/kkfunda/repository/kia-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
