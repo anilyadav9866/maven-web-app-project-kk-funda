@@ -7,9 +7,8 @@ This is the sample web application to get hands on for DevOps Engineers with the
 4. SonarQube    -      Code Scannaer and Quality report tool
 5. Nexus        -      Artifactory Storage tool
 6. Tomcat       -      Web Server
-7. 
-8.
-9.
+
+This is a Sample web application to learn the above DevOps tools.
 
 
 
