@@ -8,7 +8,6 @@ This is the sample web application to get hands on for DevOps Engineers with the
 5. Nexus        -      Artifactory Storage tool
 6. Tomcat       -      Web Server
 
-This is the sample web application to be work on to learn the above DevOps tools.
 
 
 
