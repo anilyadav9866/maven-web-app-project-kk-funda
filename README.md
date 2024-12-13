@@ -9,7 +9,6 @@ This is the sample web application to get hands on for DevOps Engineers with the
 6. Tomcat       -      Web Server
 
 
-This is a Sample web application to learn the above DevOps tools.
-This is a Sample web application to learn the above DevOps tools.
+
 
 
