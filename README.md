@@ -10,6 +10,6 @@ This is the sample web application to get hands on for DevOps Engineers with the
 
 
 This is a Sample web application to learn the above DevOps tools.
-
+This is a Sample web application to learn the above DevOps tools.
 
 
